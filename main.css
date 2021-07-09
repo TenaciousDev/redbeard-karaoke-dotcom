@@ -10,6 +10,9 @@
 .coming-soon {
   font-family: norwester, sans-serif;
   font-size: 8rem;
-  display: flex;
   color: black;
+}
+
+main {
+  margin-top: 5rem;
 }
