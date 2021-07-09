@@ -1,7 +1,11 @@
+/* Custom Fonts */
+
 @font-face {
   font-family: norwester;
   src: url(assets/fonts/norwester-v1.2/norwester.otf);
 }
+
+/* Main CSS */
 
 .coming-soon {
   font-family: norwester, sans-serif;
