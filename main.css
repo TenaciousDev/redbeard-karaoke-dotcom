@@ -16,3 +16,27 @@
 main {
   margin-top: 5rem;
 }
+
+@media only screen and (max-width: 600px) {
+  .coming-soon {
+    font-size: 7rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .coming-soon {
+    font-size: 6rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .coming-soon {
+    font-size: 5rem;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .coming-soon {
+    font-size: 4rem;
+  }
+}
